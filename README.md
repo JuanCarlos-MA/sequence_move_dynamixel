@@ -30,10 +30,10 @@ roscore
 ```
 * Terminal 2
 
-  - En caso de utilizar el *motionSeq.cpp*
-    ```
-    rosrun motores motionSeq
-    ```
+Para correr el programa:
+```
+rosrun motores motionSeq
+```
 
 ## Autor
 
