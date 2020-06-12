@@ -36,6 +36,7 @@ rosrun motores motionSeq
 ```
 
 ## Diagrama de funcionamiento del programa
+En este diagrama se puede observar el funcionamiento del programa en el cuál en cada una de las flechas se muestran las opciones válidas del menú y los submenús que tiene el algoritmo, es importante leerlo y analizarlo con detenimiento.
 
 <p align="center">
   <img width="650" length="250" src="Anexos/motionS_diag.png">
