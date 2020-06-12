@@ -37,6 +37,9 @@ rosrun motores motionSeq
 
 ## Diagrama de funcionamiento del programa
 
+<p align="center">
+  <img width="650" length="250" src="Anexos/motionS_diag.png">
+</p>
 
 ## Autor
 
