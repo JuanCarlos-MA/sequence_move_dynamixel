@@ -35,6 +35,9 @@ Para correr el programa:
 rosrun motores motionSeq
 ```
 
+## Diagrama de funcionamiento del programa
+
+
 ## Autor
 
 **Juan Carlos Martínez Aguilar** *Investigación en Robots Humanoides*
